@@ -29,7 +29,7 @@ for inputdataline in wxfile:
     loTemp = float(datalinelist[4])
 
     # If date matches user target, accumulate & count for averaing
-    if day == targetMon and month == targetDay:
+    if month == targetMon and day == targetDay:
         loTotal += loTemp
         hiTotal += hiTemp
         totDays += 1    # Count number of days for averaging
@@ -41,5 +41,5 @@ aveHi = hiTotal / totDays
 print()
 print("For ",targetMon,"/",targetDay,": ")
 print("  Average high temperature: %5.1f deg F" % (aveHi))
-print("  Average high temperature: %5.1f deg F" % (aveLo))
+print("  Average low temperature: %5.1f deg F" % (aveLo))
 
