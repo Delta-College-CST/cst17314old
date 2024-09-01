@@ -28,7 +28,7 @@ for inputdataline in wxfile:
     hiTemp = float(datalinelist[3])
     loTemp = float(datalinelist[4])
 
-    # If date matches user target, accumulate & count for averaing
+    # If date matches user target, accumulate & count for averaging
     if month == targetMon and day == targetDay:
         loTotal += loTemp
         hiTotal += hiTemp
