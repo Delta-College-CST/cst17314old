@@ -1,0 +1,50 @@
+AL,Alabama,Yellowhammer State,Montgomery,12/14/1819,22,Black Bear,Northern Flicker,Camellia
+AK,Alaska,Last Frontier State,Juneau,01/03/1959,49,Moose,Willow Ptarmigan,Alpine Forget-Me-Not
+AZ,Arizona,Grand Canyon State,Phoenix,02/14/1912,48,Ringtail,Cactus Wren,Saguaro Cactus Blossom
+AR,Arkansas,Natural State,Little Rock,06/15/1836,25,White-Tailed Deer,Mockingbird,Apple Blossom
+CA,California,Golden State,Sacramento,09/09/1850,31,Grizzly Bear,California Quail,California Poppy
+CO,Colorado,Centennial State,Denver,08/01/1876,38,Rocky Mountain Big Horn Sheep,Lark Bunting,Rocky Mountain Columbine
+CT,Connecticut,Constitution State,Hartford,01/09/1788,5,Sperm Whale,American Robin,Mountain Laurel
+DE,Delaware,First State,Dover,12/07/1787,1,Grey Fox,Blue Hen Chicken,Peach Blossom
+FL,Florida,Sunshine State,Tallahassee,03/03/1845,27,Florida Panther,Mockingbird,Orange Blossom
+GA,Georgia,Peach State,Atlanta,01/02/1788,4,White-Tailed Deer,Brown Thrasher,Cherokee Rose
+HI,Hawaii,Aloha State,Honolulu,08/21/1959,50,Monk Seal,Nene,Pua Aloalo
+ID,Idaho,Gem State,Boise,07/03/1890,43,Appaloosa Horses,Mountain Bluebird,Syringa
+IL,Illinois,Prairie State,Springfield,12/03/1818,21,White-Tailed Deer,Northern Cardinal,Violet
+IN,Indiana,Hoosier State,Indianapolis,12/11/1816,19,N/A,Northern Cardinal,Peony
+IA,Iowa,Hawkeye State,Des Moines,12/28/1846,29,N/A,American Goldfinch,Prairie Rose
+KS,Kansas,Sunflower State,Topeka,01/29/1861,34,American Buffalo,Western Meadowlark,Wild Native Sunflower
+KY,Kentucky,Bluegrass State,Frankfort,06/01/1792,15,Gray Squirrel,Northern Cardinal,Goldenrod
+LA,Louisiana,Pelican State,Baton Rouge,04/30/1812,18,Black Bear,Brown Pelican,Magnolia
+ME,Maine,Pine Tree State,Augusta,03/15/1820,23,Moose,Black-Capped Chickadee,White Pine Cone
+MD,Maryland,Old Line State,Annapolis,04/28/1788,7,Thoroughbred Horse,Baltimore Oriole,Black-Eyed Susan
+MA,Massachusetts,Bay State,Boston,02/06/1788,6,Right Whale,Black-Capped Chickadee,Mayflower
+MI,Michigan,Great Lakes State,Lansing,01/26/1837,26,White-Tailed Deer,Robin Redbreast,Apple Blossom
+MN,Minnesota,North Star State,St Paul,05/11/1858,32,White-Tailed Deer,Common Loon,Pink and White Lady Slipper
+MS,Mississippi,Magnolia State,Jackson,12/14/1819,22,White-Tailed Deer,Mockingbird,Magnolia
+MO,Missouri,Show-Me State,Jefferson City,08/10/1821,24,Missouri Mule,Eastern Bluebird,White Hawthorn Blossom
+MT,Montana,Treasure State,Helena,11/08/1889,41,Grizzly Bear,Western Meadowlark,Bitterroot
+NE,Nebraska,Cornhusker State,Lincoln,03/01/1867,37,White-Tailed Deer,Western Meadowlark,Goldenrod
+NV,Nevada,Silver State,Carson City,10/31/1864,36,Desert Bighorn Sheep,Mountain Bluebird,Sagebrush
+NH,New Hampshire,Granite State,Concord,06/21/1788,9,White-Tailed Deer,Purple Finch,Purple Lilac
+NJ,New Jersey,Garden State,Trenton,12/18/1787,3,Horse,Eastern Goldfinch,Violet
+NM,New Mexico,Land of Enchantment State,Santa Fe,01/06/1912,47,Black Bear,Greater Roadrunner,Yucca Flower
+NY,New York,Empire State,Albany,07/26/1788,11,Beaver,Eastern Bluebird,Rose
+NC,North Carolina,Tar Heel State,Raleigh,11/21/1789,12,Gray Squirrel,Northern Cardinal,Dogwood
+ND,North Dakota,Peace Garden State,Bismarck,11/02/1889,39,N/A,Western Meadowlark,Wild Prairie Rose
+OH,Ohio,Buckeye State,Columbus,03/01/1803,17,White-Tailed Deer,Northern Cardinal,Carnation
+OK,Oklahoma,Sooner State,Oklahoma City,11/16/1907,46,Buffalo,Scissor-Tailed Flycatcher,Oklahoma Rose
+OR,Oregon,Beaver State,Salem,12/14/1859,33,Beaver,Western Meadowlark,Oregon Grape
+PA,Pennsylvania,Keystone State,Harrisburg,12/14/1819,22,White-Tailed Deer,Ruffed Grouse,Mountain Laurel
+RI,Rhode Island,Ocean State,Providence,05/29/1790,13,Harbor Seal,Rhode Island Red,Violet
+SC,South Carolina,Palmetto State,Columbia,05/23/1788,8,White-Tailed Deer,Carolina Wren,Yellow Jessamine
+SD,South Dakota,Mount Rushmore State,Pierre,11/02/1889,40,Coyote,Ring-Necked Pheasant,American Pasque
+TN,Tennessee,Volunteer State,Nashville,06/01/1796,13,Raccoon,Mockingbird,Iris
+TX,Texas,Lone Star State,Austin,12/29/1845,28,Texas Longhorn,Mockingbird,Blue Bonnet
+UT,Utah,Beehive State,Salt Lake City,01/04/1896,45,Rocky Mountain Elk,California Gull,Sego Lily
+VT,Vermont,Green Mountain State,Montpelier,03/04/1791,14,Morgan Horse,Hermit Thrush,Red Clover
+VA,Virginia,Old Dominion State,Richmond,06/25/1788,10,American Foxhound,Northern Cardinal,American Dogwood
+WA,Washington,Evergreen State,Olympia,11/11/1889,42,Orca,Willow Goldfinch,Coast Rhododendron
+WV,West Virginia,Mountain State,Charleston,06/20/1863,35,Black Bear,Northern Cardinal,Rhododendron
+WI,Wisconsin,Badger State,Madison,05/29/1848,30,Badger,American Robin,Wood Violet
+WY,Wyoming,Equality State,Cheyenne,07/10/1890,44,American Bison,Western Meadowlark,Indian Paintbrush
